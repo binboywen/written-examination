@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AliBaBa/AliBaBa.iml" filepath="$PROJECT_DIR$/AliBaBa/AliBaBa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Baidu/Baidu.iml" filepath="$PROJECT_DIR$/Baidu/Baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meituan/Meituan.iml" filepath="$PROJECT_DIR$/Meituan/Meituan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDD/PDD.iml" filepath="$PROJECT_DIR$/PDD/PDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_2020_written_examination.iml" filepath="$PROJECT_DIR$/Spring_2020_written_examination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tencent/Tencent.iml" filepath="$PROJECT_DIR$/Tencent/Tencent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xueersi/Xueersi.iml" filepath="$PROJECT_DIR$/Xueersi/Xueersi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guangLianDa/guangLianDa.iml" filepath="$PROJECT_DIR$/guangLianDa/guangLianDa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kuaishou/kuaishou.iml" filepath="$PROJECT_DIR$/kuaishou/kuaishou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vivo_2019/vivo_2019.iml" filepath="$PROJECT_DIR$/vivo_2019/vivo_2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vivo_2020_pre/vivo_2020_pre.iml" filepath="$PROJECT_DIR$/vivo_2020_pre/vivo_2020_pre.iml" />
+    </modules>
+  </component>
+</project>
